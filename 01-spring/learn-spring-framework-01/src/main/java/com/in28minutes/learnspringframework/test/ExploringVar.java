@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ExploringVar {
 	
-	//ERROR: var Something = new ArrayList<String>();
+	//ERROR: var Something = new ArrayList<String>(); jay
 
 	public static void main(String[] args) {
 		
